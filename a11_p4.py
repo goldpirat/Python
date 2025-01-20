@@ -1,8 +1,3 @@
-# CTMS-14
-# a11_p4.py
-# Hannah Paulus
-# hpaulus@constructor.university
-
 # creating the Vehicle class
 class Vehicle():
     # initializing the class with name, max speed and mileage
